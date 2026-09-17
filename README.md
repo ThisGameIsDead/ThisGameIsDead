@@ -1,27 +1,9 @@
-<h1 align="center">ryu</h1>
+### ryu
 
-<p align="center">
-  <sub>c++ &nbsp;·&nbsp; reverse engineering &nbsp;·&nbsp; game modding</sub>
-</p>
+c++ and reverse engineering. internals, overlays, tooling.
+occasional ui work when something needs to not look like 2004.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3500&pause=1200&color=6E7681&center=true&vCenter=true&width=460&height=28&lines=internals%2C+overlays%2C+tooling;things+that+aren't+supposed+to+work" alt="" />
-</p>
+nothing public here yet.
 
-<br>
-
----
-
-<br>
-
-<p align="center">
-  <sub>nothing public yet</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://discord.com/users/1063195780212601012/"><sub><b>discord</b></sub></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <sub>luvkrime</sub>
-</p>
+[![discord](https://img.shields.io/badge/discord-luvkrime-313131?style=flat&labelColor=545454)](https://discord.com/users/1063195780212601012/)
+[![views](https://komarev.com/ghpvc/?username=ThisGameIsDead&style=flat&color=313131&labelColor=545454&label=views&abbreviated=true)](https://github.com/ThisGameIsDead)
