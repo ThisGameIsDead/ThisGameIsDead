@@ -1,9 +1,6 @@
-### ryu
+<img src="card.png" width="100%" />
 
-c++ and reverse engineering. internals, overlays, tooling.
-occasional ui work when something needs to not look like 2004.
+<br>
 
-nothing public here yet.
-
-[![discord](https://img.shields.io/badge/discord-luvkrime-313131?style=flat&labelColor=545454)](https://discord.com/users/1063195780212601012/)
-[![views](https://komarev.com/ghpvc/?username=ThisGameIsDead&style=flat&color=313131&labelColor=545454&label=views&abbreviated=true)](https://github.com/ThisGameIsDead)
+[![discord](https://img.shields.io/badge/luvkrime-161b22?style=flat&logo=discord&logoColor=5865F2&labelColor=0d1117)](https://discord.com/users/1063195780212601012/)
+[![followers](https://img.shields.io/github/followers/ThisGameIsDead?style=flat&logo=github&logoColor=c9d1d9&label=followers&color=161b22&labelColor=0d1117)](https://github.com/ThisGameIsDead?tab=followers)
